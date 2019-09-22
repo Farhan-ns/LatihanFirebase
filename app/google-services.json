@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "938939955748",
+    "firebase_url": "https://latihanfirebase-hns1027.firebaseio.com",
+    "project_id": "latihanfirebase-hns1027",
+    "storage_bucket": "latihanfirebase-hns1027.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:938939955748:android:0b94f83a8d48f071ee76b1",
+        "android_client_info": {
+          "package_name": "com.acer.latihanfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "938939955748-kercp2bvp60cgchqtu629173q4pv3p8j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.acer.latihanfirebase",
+            "certificate_hash": "86a1545ed4b13c20e1edb99490ef1593a591b5bf"
+          }
+        },
+        {
+          "client_id": "938939955748-tb7avt4hnc45nmt6sjjnq6cpj6p2arlg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHazT1BSlz3hBrWFAfY9dHYtGzaBxNzDU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "938939955748-tb7avt4hnc45nmt6sjjnq6cpj6p2arlg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
